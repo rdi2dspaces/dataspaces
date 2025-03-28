@@ -1,3 +1,5 @@
+# NB: this version of DataSpaces is unsupported and archived. Please find the supported version of DataSpaces [here](https://github.com/sci-ndp/dspaces)
+
 Contents of this README file:
  * About DataSpaces
  * Building and Installing DataSpaces
